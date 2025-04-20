@@ -1,0 +1,1 @@
+CREATE OR REPLACE STREAM my_sales_stream ON TABLE SALES_DB.SALES_SCHEMA.raw_sales;

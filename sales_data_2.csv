@@ -1,0 +1,11 @@
+order_id,order_date,product,quantity,price
+ORD011,2025-04-08,Apple MacBook Pro,1,2499.0
+ORD012,2025-04-09,Dell Inspiron 15,2,749.99
+ORD013,2025-04-10,Samsung Galaxy Tab,1,349.99
+ORD014,2025-04-11,Huawei MatePad,3,399.0
+ORD015,2025-04-12,Microsoft Surface Pro,1,899.0
+ORD016,2025-04-13,Logitech Keyboard,5,129.99
+ORD017,2025-04-14,Razer Gaming Mouse,2,99.99
+ORD018,2025-04-15,HP EliteBook,1,1349.99
+ORD019,2025-04-16,Acer Predator,2,1599.0
+ORD020,2025-04-17,Alienware Aurora,1,2499.99
